@@ -21,4 +21,4 @@ I am on the AEA and EEA job market in 2023/2024 and available for interviews.
 <br><br>
 My research focuses on monetary economics, central bank procedures, and empirical macroeconomics. I am also interested in nonlinear time series econometrics as well as banking and financial markets.</div>
 <br>
-You can find my CV <a href="/assets/pdf/fk-langowski_cv.pdf" target="_blank">here</a>. You can contact me via email at [fkl@gwu.edu](mailto:fkl@gwu.edu) or find me on [LinkedIn](https://www.linkedin.com/in/fk-langowski/).
+You can find my CV <a href="/assets/pdf/fk-langowski_cv.pdf" target="_blank">here</a>. You can contact me via email at [fkl@gwu.edu](mailto:fkl@gwu.edu) or find me on <a href="https://www.linkedin.com/in/fk-langowski/" target="_blank">LinkedIn</a>.
