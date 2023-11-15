@@ -33,4 +33,3 @@ between a stable, low inflation regime and an unstable regime with high and pers
 <br>
 
 ----------------------------------------------------------------------------
-https://economics.columbian.gwu.edu/michael-d-bradley
