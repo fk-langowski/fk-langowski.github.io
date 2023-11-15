@@ -20,7 +20,7 @@ nav_order: 3
 ----------------------------------------------------------------------------
 
 ##### **“Does the impact of monetary policy depend on how that policy is conducted?”**
-<div style="font-size: 16px"><span style="color:grey">with Michael D. Bradley</span></div>
+<div style="font-size: 16px"><span style="color:grey">with <a href="https://economics.columbian.gwu.edu/michael-d-bradley" target="_blank" style="color:grey">Michael D. Bradley</a></span></div>
 <p style="margin:15px;"></p>
 <div style="text-align: justify">We investigate how the impact of monetary policy depends on the nature of policy implementation. Real output and inflation react differently to Fed interventions during different monetary policy regimes. For example, the policy responses are different during contractionary policy than during expansionary policy.</div>
 
@@ -33,3 +33,4 @@ between a stable, low inflation regime and an unstable regime with high and pers
 <br>
 
 ----------------------------------------------------------------------------
+https://economics.columbian.gwu.edu/michael-d-bradley
