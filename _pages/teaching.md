@@ -11,7 +11,6 @@ nav_order: 4
 ##### **Instructor** - _The George Washington University_
 <div style="font-size: 16px">Principles of Macroeconomics - <span style="color:grey">Summer 2020</span></div>
 <p style="margin:15px;"></p>
-<br>
 
 ----------------------------------------------------------------------------
 
@@ -21,15 +20,12 @@ nav_order: 4
 <div style="font-size: 16px">Principles of Macroeconomics - <span style="color:grey">Spring 2019, Spring 2020</span></div>
 <div style="font-size: 16px">International Economics - <span style="color:grey">Fall 2020</span></div>
 <p style="margin:15px;"></p>
-<br>
 
 ----------------------------------------------------------------------------
 
 ##### **Teaching Assistant** - _University of Tübingen_
 <div style="font-size: 16px">Introduction to Statistics - <span style="color:grey">Fall 2013, Fall 2014</span></div>
 <p style="margin:15px;"></p>
-<br>
 
 ----------------------------------------------------------------------------
-<br>
 <a href="/assets/pdf/fk-langowski_teaching.pdf" target="_blank">Summary of Teaching Evaluations [PDF]</a>
