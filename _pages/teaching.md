@@ -32,4 +32,4 @@ nav_order: 4
 
 ----------------------------------------------------------------------------
 <br>
-<a href="/assets/pdf/fk-langowski_teaching.pdf" target="_blank">Summary of Teaching Evaluations</a>
+<a href="/assets/pdf/fk-langowski_teaching.pdf" target="_blank">Summary of Teaching Evaluations [PDF]</a>
