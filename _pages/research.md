@@ -19,17 +19,17 @@ nav_order: 3
 <div style="font-size: 20px"><span style="color:grey">Work in progress</span></div>
 ----------------------------------------------------------------------------
 
-##### **“Does the impact of monetary policy depend on how that policy is conducted?”**
-<div style="font-size: 16px"><span style="color:grey">with <a href="https://economics.columbian.gwu.edu/michael-d-bradley" target="_blank" style="color:grey">Michael D. Bradley</a></span></div>
+##### **“Is inflation nonlinear or nonstationary? A cross-country comparison”**
 <p style="margin:15px;"></p>
-<div style="text-align: justify">We investigate how the impact of monetary policy depends on the nature of policy implementation. Real output and inflation react differently to Fed interventions during different monetary policy regimes. For example, the policy responses are different during contractionary policy than during expansionary policy.</div>
+<div style="text-align: justify">The post-pandemic global surge in inflation raised concerns that central banks might see inflation become entrenched and difficult to control once it stayed too long above target. This would happen if inflation structurally behaves differently once it increases above a certain level and a country thus enters a ”high” inflation environment. A challenge for testing this hypothesis empirically is to differentiate nonlinearity from nonstationarity, as time series can have both properties simultaneously. Inflation in particular has frequently been found to have a unit root in the literature.
+I analyze year-on-year inflation in six advanced economies over the past 60 years using the nonlinear unit root testing procedure by Caner and Hansen (2001) and find evidence of nonlinearity with a threshold and two regimes for all countries. The higher inflation regime is nonstationary, whereas the lower inflation regime is stationary. This means that central banks face the risk of persistent shocks to inflation above the threshold. Both the estimated threshold values at which inflation dynamics change and the speed of transition differ between countries. The distribution of regimes also matches notable inflationary shocks such as during the 1970s and in Europe in the early 1990s. The results suggest that country-specific monitoring of transition risk to the high inflation regime is necessary.</div>
+<br>
 
 ----------------------------------------------------------------------------
 
-##### **“Is inflation nonlinear or nonstationary? A cross-country comparison”**
+##### **“Does the impact of monetary policy depend on how that policy is conducted?”**
+<div style="font-size: 16px"><span style="color:grey">with <a href="https://economics.columbian.gwu.edu/michael-d-bradley" target="_blank" style="color:grey">Michael D. Bradley</a></span></div>
 <p style="margin:15px;"></p>
-<div style="text-align: justify">Based on nonlinear unit root testing, I find that inflation in six economically advanced countries switches
-between a stable, low inflation regime and an unstable regime with high and persistent inflation. Both the estimated threshold values and the speed of transition differ between countries.</div>
-<br>
+<div style="text-align: justify">We investigate how the impact of monetary policy depends on the nature of policy implementation. We find that when the Fed has been pursuing neutral or expansionary policy, an increase in the federal funds rate has modest effects on real GDP and inflation, with a substantial lag. However, when rate increases occur after previous increases, the impact on real GDP and inflation is faster and more substantial. These findings suggest that the Fed may want to initially be aggressive and persistent with interest rate increases to dampen economic activity and reduce inflation. We also analyze the effects of monetary policy during four distinct monetary policy regimes since 1969. We find that changes in the fed funds rate only have a significant impact on real GDP and inflation when the Fed actively uses it as an instrument of monetary policy, and less so when the funds rate has a less prominent role. These results contribute to an emerging literature on how both monetary policy goals and the way in which they are implemented affect macroeconomic outcomes.</div>
 
 ----------------------------------------------------------------------------
