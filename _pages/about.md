@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<div style="text-align: justify"> I am a Ph.D. candidate in Economics at the George Washington University in Washington, DC. I will join the Economist Program (EP) at the International Monetary Fund in September 2024.
+<div style="text-align: justify"> I am an economist (EP) at the International Monetary Fund (IMF). I obtained my PhD in Economics from the George Washington University in Washington, DC.
 <br><br>
 My research focuses on monetary economics, central bank procedures, and empirical macroeconomics. I am also interested in nonlinear time series econometrics as well as banking and financial markets. 
 <br><br>
